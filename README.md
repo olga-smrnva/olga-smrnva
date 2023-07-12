@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 currently studying at @DevelopersInstitute Full-Stack JS & Python Bootcamp
+🤓 currently studying at Developers.Institute Full-Stack JS & Python Bootcamp
 
 
 ## 🌐 Socials:
